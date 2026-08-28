@@ -1,0 +1,10 @@
+metric,baseline,chunked
+total_model_mb,14483.559275,14483.559275
+peak_exposure_mb,14483.464192,1832.968192
+pct_exposed,100.0,12.655509306775699
+attack_surface_reduction_pct,0,87.3444906932243
+plaintext_seconds_mb_s,909700.7063071671,94731.49935783398
+ps_reduction_pct,0,89.5865201927361
+load_time_s,62.80919551849365,78.7838978767395
+latency_overhead_pct,0,25.43369999627241
+baseline_method,from_pretrained_personB,chunk_decrypt_sequential

@@ -1,0 +1,92 @@
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 0, "ram_mb": 33308.889088, "timestamp": "2026-06-16T01:30:12.548434"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 0, "decrypt_time_ms": 14337.013721466064, "chunk_bytes": 1832977609, "timestamp": "2026-06-16T01:30:26.910288"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 1, "ram_mb": 33309.544448, "timestamp": "2026-06-16T01:30:28.338388"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 1, "decrypt_time_ms": 6549.022674560547, "chunk_bytes": 1308680594, "timestamp": "2026-06-16T01:30:34.892749"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 2, "ram_mb": 33309.544448, "timestamp": "2026-06-16T01:30:35.818155"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 2, "decrypt_time_ms": 9088.564395904541, "chunk_bytes": 1308680594, "timestamp": "2026-06-16T01:30:44.912602"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 3, "ram_mb": 33309.544448, "timestamp": "2026-06-16T01:30:45.847688"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 3, "decrypt_time_ms": 9914.274215698242, "chunk_bytes": 1308680658, "timestamp": "2026-06-16T01:30:55.767363"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 4, "ram_mb": 33309.544448, "timestamp": "2026-06-16T01:30:56.641049"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 4, "decrypt_time_ms": 10120.07761001587, "chunk_bytes": 1308680658, "timestamp": "2026-06-16T01:31:06.766325"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 5, "ram_mb": 33309.499392, "timestamp": "2026-06-16T01:31:07.662151"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 5, "decrypt_time_ms": 10110.602855682373, "chunk_bytes": 1308680658, "timestamp": "2026-06-16T01:31:17.778519"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 6, "ram_mb": 33309.499392, "timestamp": "2026-06-16T01:31:18.711744"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 6, "decrypt_time_ms": 10117.321491241455, "chunk_bytes": 1308680658, "timestamp": "2026-06-16T01:31:28.835497"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 7, "ram_mb": 33309.499392, "timestamp": "2026-06-16T01:31:29.749721"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 7, "decrypt_time_ms": 10120.169639587402, "chunk_bytes": 1308680658, "timestamp": "2026-06-16T01:31:39.875332"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 8, "ram_mb": 33309.499392, "timestamp": "2026-06-16T01:31:40.733707"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 8, "decrypt_time_ms": 6842.594385147095, "chunk_bytes": 872453997, "timestamp": "2026-06-16T01:31:47.581615"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 9, "ram_mb": 33309.499392, "timestamp": "2026-06-16T01:31:48.213533"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 9, "decrypt_time_ms": 6709.16223526001, "chunk_bytes": 872453997, "timestamp": "2026-06-16T01:31:54.928554"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 10, "ram_mb": 33308.50816, "timestamp": "2026-06-16T01:31:55.394343"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 10, "decrypt_time_ms": 6818.145990371704, "chunk_bytes": 872453997, "timestamp": "2026-06-16T01:32:02.217835"}
+{"event": "CHUNK_ACCESS", "request_id": "req_legit_001", "chunk_id": 11, "ram_mb": 33308.50816, "timestamp": "2026-06-16T01:32:02.688246"}
+{"event": "CHUNK_DECRYPTED", "request_id": "req_legit_001", "chunk_id": 11, "decrypt_time_ms": 6607.067108154297, "chunk_bytes": 872453997, "timestamp": "2026-06-16T01:32:09.300304"}
+{"event": "CHUNK_ACCESS", "request_id": "req_attack_001", "chunk_id": 6, "ram_mb": 33323.675648, "timestamp": "2026-06-16T01:32:25.797854"}
+{"event": "CHUNK_ACCESS", "request_id": "req_attack_002", "chunk_id": 0, "ram_mb": 33323.675648, "timestamp": "2026-06-16T01:32:25.803460"}
+{"event": "INCIDENT", "request_id": "req_attack_002", "chunk_id": 0, "reason": "OUT_OF_ORDER: expected chunk 1, got 0", "history": [0], "timestamp": "2026-06-16T01:32:25.806871"}
+{"event": "INCIDENT", "request_id": "req_attack_001", "chunk_id": 0, "reason": "OUT_OF_ORDER: expected chunk 1, got 0", "history": [6], "timestamp": "2026-06-16T01:32:25.810865"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 0, "ram_gb": 29.985255424, "ts": "2026-06-17T01:41:40.813700+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 0, "decrypt_ms": 8771.45, "bytes": 1832977609, "ts": "2026-06-17T01:41:49.852945+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 1, "ram_gb": 30.034747392, "ts": "2026-06-17T01:41:51.639679+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 1, "decrypt_ms": 6012.92, "bytes": 1308680594, "ts": "2026-06-17T01:41:57.657259+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 2, "ram_gb": 30.068301824, "ts": "2026-06-17T01:41:58.981862+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 2, "decrypt_ms": 10037.67, "bytes": 1308680594, "ts": "2026-06-17T01:42:09.024225+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 3, "ram_gb": 30.076690432, "ts": "2026-06-17T01:42:10.274692+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 3, "decrypt_ms": 10136.5, "bytes": 1308680658, "ts": "2026-06-17T01:42:20.422155+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 4, "ram_gb": 30.03471872, "ts": "2026-06-17T01:42:21.776421+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 4, "decrypt_ms": 10053.24, "bytes": 1308680658, "ts": "2026-06-17T01:42:31.836374+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 5, "ram_gb": 30.067101696, "ts": "2026-06-17T01:42:33.144277+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 5, "decrypt_ms": 10348.43, "bytes": 1308680658, "ts": "2026-06-17T01:42:43.497699+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 6, "ram_gb": 30.099623936, "ts": "2026-06-17T01:42:44.764638+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 6, "decrypt_ms": 9824.76, "bytes": 1308680658, "ts": "2026-06-17T01:42:54.595363+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 7, "ram_gb": 30.133153792, "ts": "2026-06-17T01:42:55.791152+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 7, "decrypt_ms": 9689.27, "bytes": 1308680658, "ts": "2026-06-17T01:43:05.489314+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 8, "ram_gb": 30.07432704, "ts": "2026-06-17T01:43:06.720655+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 8, "decrypt_ms": 6378.46, "bytes": 872453997, "ts": "2026-06-17T01:43:13.103067+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 9, "ram_gb": 30.074298368, "ts": "2026-06-17T01:43:13.920571+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 9, "decrypt_ms": 6405.73, "bytes": 872453997, "ts": "2026-06-17T01:43:20.330572+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 10, "ram_gb": 30.074150912, "ts": "2026-06-17T01:43:21.149263+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 10, "decrypt_ms": 6347.08, "bytes": 872453997, "ts": "2026-06-17T01:43:27.500703+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 11, "ram_gb": 30.081888256, "ts": "2026-06-17T01:43:28.344913+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 11, "decrypt_ms": 6929.73, "bytes": 872453997, "ts": "2026-06-17T01:43:35.278715+00:00"}
+{"event": "ACCESS", "req_id": "req_atk_001", "chunk_id": 6, "ram_gb": 30.082412544, "ts": "2026-06-17T01:43:51.843398+00:00"}
+{"event": "ACCESS", "req_id": "req_atk_002", "chunk_id": 0, "ram_gb": 29.98188032, "ts": "2026-06-17T01:43:51.855509+00:00"}
+{"event": "INCIDENT", "req_id": "req_atk_002", "chunk_id": 0, "reason": "OUT_OF_ORDER: expected 1 got 0", "history": [0], "ts": "2026-06-17T01:43:51.867078+00:00"}
+{"event": "INCIDENT", "req_id": "req_atk_001", "chunk_id": 0, "reason": "OUT_OF_ORDER: expected 1 got 0", "history": [6], "ts": "2026-06-17T01:43:51.877136+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 0, "ram_gb": 15.82987264, "ts": "2026-06-17T02:53:24.592488+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 0, "decrypt_ms": 8221.72, "bytes": 1832977609, "ts": "2026-06-17T02:53:32.821285+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 1, "ram_gb": 15.88013056, "ts": "2026-06-17T02:53:34.611254+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 1, "decrypt_ms": 5777.0, "bytes": 1308680594, "ts": "2026-06-17T02:53:40.394792+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 2, "ram_gb": 15.896907776, "ts": "2026-06-17T02:53:41.671231+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 2, "decrypt_ms": 9763.79, "bytes": 1308680594, "ts": "2026-06-17T02:53:51.447833+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 3, "ram_gb": 15.905202176, "ts": "2026-06-17T02:53:52.715064+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 3, "decrypt_ms": 9718.37, "bytes": 1308680658, "ts": "2026-06-17T02:54:02.440040+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 4, "ram_gb": 15.913496576, "ts": "2026-06-17T02:54:03.711775+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 4, "decrypt_ms": 9716.86, "bytes": 1308680658, "ts": "2026-06-17T02:54:13.435609+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 5, "ram_gb": 15.913463808, "ts": "2026-06-17T02:54:14.705750+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 5, "decrypt_ms": 9239.74, "bytes": 1308680658, "ts": "2026-06-17T02:54:23.952794+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 6, "ram_gb": 15.921823744, "ts": "2026-06-17T02:54:25.224144+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 6, "decrypt_ms": 9191.69, "bytes": 1308680658, "ts": "2026-06-17T02:54:34.425210+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 7, "ram_gb": 15.921815552, "ts": "2026-06-17T02:54:35.660622+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 7, "decrypt_ms": 9592.03, "bytes": 1308680658, "ts": "2026-06-17T02:54:45.259971+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 8, "ram_gb": 15.913271296, "ts": "2026-06-17T02:54:46.520305+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 8, "decrypt_ms": 6288.02, "bytes": 872453997, "ts": "2026-06-17T02:54:52.814067+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 9, "ram_gb": 15.904882688, "ts": "2026-06-17T02:54:53.628201+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 9, "decrypt_ms": 6328.58, "bytes": 872453997, "ts": "2026-06-17T02:54:59.961654+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 10, "ram_gb": 15.89641216, "ts": "2026-06-17T02:55:00.821650+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 10, "decrypt_ms": 6512.32, "bytes": 872453997, "ts": "2026-06-17T02:55:07.346071+00:00"}
+{"event": "ACCESS", "req_id": "req_legit_001", "chunk_id": 11, "ram_gb": 15.913189376, "ts": "2026-06-17T02:55:08.179958+00:00"}
+{"event": "DECRYPTED", "req_id": "req_legit_001", "chunk_id": 11, "decrypt_ms": 6606.91, "bytes": 872453997, "ts": "2026-06-17T02:55:14.792105+00:00"}
+{"event": "INCIDENT", "req_id": "req_atk_ooo", "chunk_id": 6, "reason": "OUT_OF_ORDER: expected chunk 0 got 6", "history": [], "ts": "2026-06-17T02:55:30.907561+00:00"}
+{"event": "ACCESS", "req_id": "req_atk_rep", "chunk_id": 0, "ram_gb": 15.829876736, "ts": "2026-06-17T02:55:30.912132+00:00"}
+{"event": "ACCESS", "req_id": "req_atk_rep", "chunk_id": 0, "ram_gb": 15.829876736, "ts": "2026-06-17T02:55:30.915177+00:00"}
+{"event": "INCIDENT", "req_id": "req_atk_rep", "chunk_id": 0, "reason": "CHUNK_REPEAT: chunk 0 accessed 3x (max=2)", "history": [0, 0], "ts": "2026-06-17T02:55:30.920035+00:00"}
+{"event": "INCIDENT", "req_id": "req_atk_ooo", "chunk_id": 0, "reason": "BLOCKED_REQUEST", "history": [], "ts": "2026-06-17T02:55:30.923790+00:00"}
+{"event": "ACCESS", "req_id": "req_burst_0", "chunk_id": 0, "ram_gb": 15.829876736, "ts": "2026-06-17T02:55:30.926989+00:00"}
+{"event": "ACCESS", "req_id": "req_burst_1", "chunk_id": 0, "ram_gb": 15.829876736, "ts": "2026-06-17T02:55:30.929429+00:00"}
+{"event": "ACCESS", "req_id": "req_burst_2", "chunk_id": 0, "ram_gb": 15.829876736, "ts": "2026-06-17T02:55:30.931372+00:00"}
+{"event": "ACCESS", "req_id": "req_burst_3", "chunk_id": 0, "ram_gb": 15.829876736, "ts": "2026-06-17T02:55:30.934082+00:00"}
+{"event": "ACCESS", "req_id": "req_burst_4", "chunk_id": 0, "ram_gb": 15.829876736, "ts": "2026-06-17T02:55:30.936756+00:00"}
+{"event": "INCIDENT", "req_id": "req_burst_5", "chunk_id": 0, "reason": "RATE_LIMIT: 6 req/min (max=5)", "history": [], "ts": "2026-06-17T02:55:30.939884+00:00"}
+{"event": "ACCESS", "req_id": "req_burst_5", "chunk_id": 0, "ram_gb": 15.829876736, "ts": "2026-06-17T02:55:30.943437+00:00"}

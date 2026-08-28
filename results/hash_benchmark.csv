@@ -1,0 +1,4 @@
+algorithm,mean_ms,runs,chunk_mb
+SHA3-256,5991.28,5,1308.7
+BLAKE3,295.05,5,1308.7
+speedup,20.31,,
